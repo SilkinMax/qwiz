@@ -182,3 +182,4 @@ function updateProgressBar(mode,currentCardNumber){
 		progressBar.querySelector(".progress__line-bar").style = `width:${perCent}%`;
 	}
 }
+//Очередная проверка
